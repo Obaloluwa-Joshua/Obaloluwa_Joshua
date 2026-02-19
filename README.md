@@ -18,7 +18,7 @@ I'm a data analyst passionate about helping businesses make better decisions of 
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy reading and meditating. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy reading and meditating. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -31,8 +31,8 @@ When I'm not working with data, I enjoy reading and meditating. I love the "aha!
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [A new skill or technology you're exploring, e.g., Advanced SQL techniques .]
+- [Another skill, e.g., Statistical  Analysis in SPSS.]
 
 ## 🛠️ Technical Skillset
 
